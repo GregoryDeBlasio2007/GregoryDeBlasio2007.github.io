@@ -1,0 +1,43 @@
+body {
+	background: url("https://wpmisc.com/sites/default/files/wallpaper/abstract/66049/dark-metal-waves-hd-wallpapers-66049-269510.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.nav {
+	margin-top: 40px;
+	font-size: 60px;
+	padding-left: 40px;
+	font-family: "Trebuchet MS";
+	color: white;
+}
+h1 {
+	font-size: 150px;
+	font-family: "Trebuchet MS";
+	text-align: center;
+	margin: 0px;
+	color: white;
+}
+.header-section{
+	position: absolute;
+	left: 50%;
+	transform: translateX(-50%);
+	background: rgba(46,70,204,0.2);
+	padding: 60px;
+	border-radius: 50%;
+	margin-top: 100px;
+}
+.nav:hover {
+	color: rgb(46,70,204);
+}
+h3 {
+	font-size: 50px;
+	font-family: "Trebuchet MS";
+	text-align: center;
+	margin: 0px;
+	color: white;
+	margin: 20px;
+}
+.active {
+	color: rgb(46,70,204);
+}
